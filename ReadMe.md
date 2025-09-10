@@ -8,9 +8,3 @@ Possuo interesse em Big Data, análise de dados e otimização de processos de i
 
 ## Objetivo
 Construir carreira em Engenharia de Dados, contribuindo para projetos de modelagem, integração e análise de dados, sempre buscando transformar informações em valor estratégico.  
-
----
-
-## Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/luana-alexandre-784845252/)  
-[Instagram](https://www.instagram.com/luana.alexandre0/)
