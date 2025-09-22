@@ -1,8 +1,6 @@
 # Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Engenharia de Dados.  
-Tenho experiência acadêmica e prática em SQL, MySQL, Python e Power BI.  
-Possuo interesse em Big Data, análise de dados e otimização de processos de informação.  
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e programação. Sempre em busca de aprender coisas novas, criar soluções práticas e transformar ideias em projetos reais.
 
 ---
 
