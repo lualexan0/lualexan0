@@ -5,4 +5,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e
 ---
 
 ## Objetivo
-Construir carreira em Engenharia de Dados, contribuindo para projetos de modelagem, integração e análise de dados, sempre buscando transformar informações em valor estratégico.  
+Construir carreira em Análise e Desenvolvimento de Sistemas, desenvolvendo soluções de software inovadoras e eficientes.
