@@ -1,4 +1,4 @@
-<!-- Nome animado estilo letreiro LED -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFAA&center=true&vCenter=true&width=700&height=80&lines=+Luana+Alexandre+;Desenvolvedora+;Apaixonada+por+tecnologia+" alt="Luana Alexandre" />
 </h1>
@@ -53,12 +53,5 @@ Meu foco é criar soluções acessíveis e criativas — especialmente para quem
   
  _“Transformar desafios em oportunidades é o que move minha jornada na tecnologia.”_ ✨  
 
-</div>
-
----
-
-###  Minhas contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/luanaalexandre/luanaalexandre/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
