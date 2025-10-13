@@ -1,7 +1,6 @@
-<h2 align="center">Desenvolvedor👋​</h2>
+<h2 align="center">full-stack developer👋​</h2>
 
 ###
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=470&lines=Oi%2C+Meu+nome+%C3%A9+Luana!;Sou+Desenvolvedor+!;Bem-Vindo(a)+ao+meu+perfil!+%F0%9F%91%8B%E2%80%8B" alt="Typing SVG" /></a>
 </div>
