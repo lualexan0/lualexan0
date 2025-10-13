@@ -1,57 +1,72 @@
+<h2 align="center">Desenvolvedor👋​</h2>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFAA&center=true&vCenter=true&width=700&height=80&lines=+Luana+Alexandre+;Desenvolvedora+;Apaixonada+por+tecnologia+" alt="Luana Alexandre" />
-</h1>
-
----
-
-### 👋 Oi, eu sou a Luana!
-
-Sou **estudante de Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e em constante aprendizado.  
-Meu foco é criar soluções acessíveis e criativas — especialmente para quem está começando a empreender e quer usar a tecnologia a seu favor.  
-
-📍 Rio de Janeiro - RJ  
-📫 **E-mail:** [alexandreluana634@gmail.com](mailto:alexandreluana634@gmail.com)  
-🔗 **LinkedIn:** [Luana Alexandre](https://www.linkedin.com/in/luana-alexandre-7b77312a6/)
-
----
-
-###  Tecnologias e Ferramentas
+###
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=470&lines=Oi%2C+Meu+nome+%C3%A9+Luana!;Sou+Desenvolvedor+!;Bem-Vindo(a)+ao+meu+perfil!+%F0%9F%91%8B%E2%80%8B" alt="Typing SVG" /></a>
+</div>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #fde047, #facc15, #fbbf24);" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ricardoraphaeltech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardoraphaeltech&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
----
+###
 
-###  Estatísticas do GitHub
+<img align="right" height="100" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
 
-<div align="center">
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="8" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
+  <img width="8" />
+ 
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
   
-![Luana GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanaalexandre&show_icons=true&theme=radical&title_color=00FFAA&icon_color=00FFAA)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaalexandre&layout=compact&theme=radical&title_color=00FFAA)
-
-</div>
-
----
-
-###  Sobre mim
--  Atualmente aprendendo **desenvolvimento web (Front-end e Back-end)**  
--  Interesses: tecnologia, design e inovação  
--  Objetivo: crescer na área de TI e criar projetos que impactem positivamente pessoas e pequenos negócios  
-
----
-
-<div align="center">
   
- _“Transformar desafios em oportunidades é o que move minha jornada na tecnologia.”_ ✨  
-
+  <a href="mailto:alexandreluana634@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/luana-alexandre-7b77312a6/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
+  </a>
+  
 </div>
 
+###
+
+<br clear="both">
+
+<div  align="center">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardoraphaeltech/ricardoraphaeltech/output/github-contribution-grid-snake.svg">
+ </picture>
+</div>
+
+###
